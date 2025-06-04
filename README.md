@@ -18,6 +18,10 @@ It is designed as a **learning portfolio** to showcase hands-on experience with 
 | `missing-profile.sql`        | SQL query to identify customers with missing profile or contact data |
 | `vip-customer-no-transactions.sql` | SQL to find VIP customers without any recorded transactions |
 
+
+## 🧩 Entity Relationship Diagram
+
+![ERD](images/erd.png)
 ---
 
 ## 🧠 Use Case
