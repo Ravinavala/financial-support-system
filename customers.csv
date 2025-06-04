@@ -1,0 +1,21 @@
+CustomerID,FullName,Email,Phone,Region,JoinDate,IsVIP
+1,Customer 1,customer1@example.com,+12345678901,North,2020-02-21,False
+2,Customer 2,customer2@example.com,+12345678902,South,2021-04-02,True
+3,Customer 3,customer3@example.com,+12345678903,North,2023-10-17,True
+4,Customer 4,customer4@example.com,+12345678904,West,2020-03-06,True
+5,Customer 5,customer5@example.com,+12345678905,North,2021-03-23,True
+6,Customer 6,customer6@example.com,+12345678906,North,2023-02-23,True
+7,Customer 7,customer7@example.com,+12345678907,West,2021-03-27,False
+8,Customer 8,customer8@example.com,+12345678908,East,2024-07-15,True
+9,Customer 9,customer9@example.com,+12345678909,South,2023-11-30,False
+10,Customer 10,customer10@example.com,+12345678910,East,2021-07-23,True
+11,Customer 11,customer11@example.com,+12345678911,South,2025-05-14,False
+12,Customer 12,customer12@example.com,+12345678912,North,2020-07-08,False
+13,Customer 13,customer13@example.com,+12345678913,North,2022-01-05,False
+14,Customer 14,customer14@example.com,+12345678914,East,2024-07-10,True
+15,Customer 15,customer15@example.com,+12345678915,West,2023-01-03,True
+16,Customer 16,customer16@example.com,+12345678916,West,2020-06-10,False
+17,Customer 17,customer17@example.com,+12345678917,East,2023-03-28,True
+18,Customer 18,customer18@example.com,+12345678918,North,2020-04-03,True
+19,Customer 19,customer19@example.com,+12345678919,East,2020-06-12,True
+20,Customer 20,customer20@example.com,+12345678920,North,2022-02-17,False

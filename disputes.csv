@@ -1,0 +1,16 @@
+DisputeID,TransactionID,RaisedDate,Resolved,ResolutionNote
+1,6,2025-03-04,False,Fraudulent activity
+2,9,2025-04-14,False,
+3,54,2025-04-10,True,Service not received
+4,47,2025-05-17,False,Duplicate charge
+5,56,2025-01-20,False,Service not received
+6,60,2025-03-27,False,Fraudulent activity
+7,32,2024-12-28,False,Service not received
+8,32,2025-04-03,False,Fraudulent activity
+9,4,2025-04-11,False,Duplicate charge
+10,63,2025-01-29,False,Fraudulent activity
+11,44,2025-02-15,False,
+12,67,2025-01-23,True,Duplicate charge
+13,93,2025-03-20,False,Duplicate charge
+14,89,2025-04-06,False,Service not received
+15,3,2024-12-29,False,Duplicate charge

@@ -1,0 +1,26 @@
+TicketID,CustomerID,IssueType,Status,OpenedDate,ClosedDate,LinkedDisputeID
+1,13,General Inquiry,Pending,2025-02-22,,7
+2,17,Fraud Report,Pending,2025-03-24,,11
+3,15,Billing Error,Open,2025-02-22,,8
+4,7,Billing Error,Pending,2025-01-05,2025-01-12,10
+5,16,Login Issue,Open,2025-05-05,,8
+6,10,Login Issue,Pending,2025-03-08,2025-03-18,7
+7,18,Fraud Report,Pending,2025-02-14,2025-02-16,4
+8,5,Fraud Report,Closed,2025-01-01,2025-01-20,15
+9,16,Fraud Report,Closed,2025-03-03,2025-03-05,14
+10,4,Login Issue,Pending,2025-03-18,,2
+11,2,Login Issue,Open,2025-01-13,,4
+12,4,General Inquiry,Closed,2025-05-10,2025-05-27,13
+13,15,Fraud Report,Pending,2025-05-05,,9
+14,20,Billing Error,Closed,2025-05-11,2025-05-18,1
+15,3,Login Issue,Open,2025-02-05,2025-02-23,5
+16,1,Fraud Report,Open,2025-03-31,,13
+17,8,General Inquiry,Open,2025-06-04,,9
+18,8,Login Issue,Pending,2025-05-15,2025-05-29,8
+19,8,Login Issue,Open,2025-02-12,2025-02-15,4
+20,10,Fraud Report,Pending,2025-03-28,2025-04-12,9
+21,13,General Inquiry,Open,2025-04-13,,8
+22,20,Fraud Report,Open,2025-03-26,,1
+23,3,Login Issue,Open,2025-05-27,2025-06-05,7
+24,16,General Inquiry,Pending,2025-02-15,2025-03-06,14
+25,16,General Inquiry,Closed,2025-04-05,,2
